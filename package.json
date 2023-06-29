@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/plough-instruct-61bi7.figma-tokens-ljgv096p",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 51KdG4rxeuy9NSudjfYc --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
